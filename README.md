@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Erinrais
+- 🌱 I’m currently learning pyhton (telegram bots)
+- 📫 How to reach me - discord erinrais
